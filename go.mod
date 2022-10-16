@@ -1,4 +1,4 @@
-module github.com/yonyou-openapi-sdk
+module github.com/tmzjlyw/yonyou-openapi-sdk
 
 go 1.17
 
